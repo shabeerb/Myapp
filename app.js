@@ -1,1 +1,1 @@
-console.log("MyApp has commited info github");
+console.log("MyApp has commited info github | using comment");
